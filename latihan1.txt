@@ -5,3 +5,4 @@ Jalur Belajar Mengenai Frontend
 5. GIT
 6. MySQL
 7. React.js
+8. Contoh
